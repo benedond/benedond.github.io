@@ -14,6 +14,6 @@ At work, I deal with discrete optimization problems most of the times, especiall
 
 Studies
 ======
-I finished my bachelor (2013-2016) and master (2016-2017) studies at [Open Informatics](https://oi.fel.cvut.cz/), CTU in prague, with major in Artificial Intelligence. I was awarded Dean's award for my thesis, and scholarship for outstanding results. 
+I finished my bachelor (2013-2016) and master (2016-2017) studies at [Open Informatics](https://oi.fel.cvut.cz/), CTU in Prague, with major in Artificial Intelligence. I was awarded Dean's award for my thesis, and scholarship for outstanding results. 
 
 
