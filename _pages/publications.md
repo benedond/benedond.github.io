@@ -21,6 +21,7 @@ author_profile: true
  3. Sojka, M.,  Benedikt, O., Hanzálek, Z. & Zaykov, P. [Testbed for thermal and performance analysis in MPSoC systems](https://doi.org/10.15439/2020F174). In: 15th Conference on Computer Science and Information Systems, FedCSIS (2020).
  4. Benedikt, O., Módos, I. & Hanzálek, Z. [Power of pre-processing: production scheduling with variable energy pricing and power-saving states](https://link.springer.com/book/10.1007%2F978-3-030-58942-4) (extended abstract, part of Front Matter). In: 17th International Conference on the Integration of Constraint Programming, Artificial Intelligence, and Operations Research, CPAIOR (2020). <span style="color:blue;font-size:smaller">Best Student Paper Award</span>
  5. Benedikt, O., et al. [Thermal-Aware Scheduling for MPSoC in the Avionics Domain: Tooling and Initial Results](https://ieeexplore.ieee.org/document/9545290). In: The 27th IEEE International Conference on Embedded and Real-Time Computing Systems and Applications, RTCSA (2021).
+ 6. Sojka, M., Benedikt, O. & Hanzálek, Z. [Determining MPSoC layout from thermal camera images: work-in-progress](https://doi.org/10.1145/3477244.3477619). In: The 21st ACM SIGBED International Conference on Embedded Software, EMSOFT (2021).
 
 ## Others
 
