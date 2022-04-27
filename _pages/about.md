@@ -12,7 +12,7 @@ Hello! I am Ondřej Benedikt. Currently, I am a Ph.D. student at the [Faculty of
 
 
 ## Studies & Work
-I finished my bachelor's (2013-2016) and master's (2016-2017) studies at [Open Informatics](https://oi.fel.cvut.cz/), CTU in Prague, with a major in Artificial Intelligence. My primary study interests included general computer science, mathematics, algorithm design and complexity study, optimization, as well as AI and machine learning. After finishing my master's studies, I started a Ph.D. program with major interest in system modeling and optimization and their synergy.
+I finished my bachelor's (2013-2016) and master's (2016-2017) studies at [Open Informatics](https://oi.fel.cvut.cz/), CTU in Prague, with a major in Artificial Intelligence. My primary study interests included general computer science, mathematics, algorithm design and complexity study, optimization, as well as AI and machine learning. After finishing my master's studies, I started a Ph.D. program with major interest in system modeling and optimization, and their synergy.
 
 For a short summary of my working life, [see my CV](https://benedond.github.io/files/cv.pdf).
 
