@@ -11,9 +11,6 @@ redirect_from:
 Hello! I am Ondřej Benedikt. Currently, I am optimization systems developer at [ČEZ](https://www.cez.cz) specializing in unit-commitment problem and mathematical modeling. My primary working agenda include long-term unit-commitment modeling, and optimization of hydropower plants.
 
 
-a Ph.D. student at the [Faculty of Electrical Engineering](https://fel.cvut.cz/cz/), [CTU](https://www.cvut.cz/en) in Prague. Also, I work as a research assistant at [Czech Institute of Informatics, Robotics and Cybernetics](https://www.ciirc.cvut.cz/), CTU in Prague. 
-
-
 ## Studies & Work
 I finished my bachelor's (2013-2016) and master's (2016-2017) studies at [Open Informatics](https://oi.fel.cvut.cz/), CTU in Prague, with a major in Artificial Intelligence. My primary study interests included general computer science, mathematics, algorithm design and complexity study, optimization, as well as AI and machine learning. After finishing my master's studies, I continued with a Ph.D. program (2017-2022) at the [Faculty of Electrical Engineering](https://fel.cvut.cz/cz/) with major interest in system modeling and optimization.
 
