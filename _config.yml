@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Ondřej Benedikt"
-  avatar           : "images/profile.png"
+  avatar           : "profile.png"
   bio              : "Ph.D. student and researcher at CTU in Prague"
   location         : "Prague, Czech Republic"
   employer         :
