@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am Ondřej Benedikt. Currently, I am optimization systems developer at [ČEZ](https://www.cez.cz) specializing in unit-commitment problem and mathematical modeling. My primar working agenda include long-term unit-commitment modeling, and optimization of hydropower plants.
+Hello! I am Ondřej Benedikt. Currently, I am optimization systems developer at [ČEZ](https://www.cez.cz) specializing in unit-commitment problem and mathematical modeling. My primary working agenda include long-term unit-commitment modeling, and optimization of hydropower plants.
 
 
 a Ph.D. student at the [Faculty of Electrical Engineering](https://fel.cvut.cz/cz/), [CTU](https://www.cvut.cz/en) in Prague. Also, I work as a research assistant at [Czech Institute of Informatics, Robotics and Cybernetics](https://www.ciirc.cvut.cz/), CTU in Prague. 
